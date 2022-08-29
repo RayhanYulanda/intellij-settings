@@ -1,0 +1,6 @@
+<templateSet group="PHP">
+  <template name="todo" value="//TODO $DATE$ $USER$: $END$" description="TODO Comment" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="USER" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
